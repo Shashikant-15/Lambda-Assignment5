@@ -13,15 +13,15 @@ If the input list doesn't contain any strings then the result list should be emp
 
 ### Hints: it is possible to use sets, maps, lists and so on for helping.
 
-* << Sample Input 1:
+*  Sample Input 1:
 
-** <<<java scala java clojure clojure
-* <<Sample Output 1:
+  java scala java clojure clojure
+* Sample Output 1:
 
-** <<<clojure java scala
-* <<Sample Input 2:
+   clojure java scala
+* Sample Input 2:
 
-** <<<the three the three the three an an a
-* <<Sample Output 2:
+ the three the three the three an an a
+* Sample Output 2:
 
-** <<a an the three
+    a an the three
