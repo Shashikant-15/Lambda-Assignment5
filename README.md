@@ -11,17 +11,17 @@ Write a lambda expression that accepts a list of strings and returns new list of
 
 If the input list doesn't contain any strings then the result list should be empty.
 
-Hints: it is possible to use sets, maps, lists and so on for helping.
+### Hints: it is possible to use sets, maps, lists and so on for helping.
 
-<< Sample Input 1:
+* << Sample Input 1:
 
-<<<java scala java clojure clojure
-<<Sample Output 1:
+** <<<java scala java clojure clojure
+* <<Sample Output 1:
 
-<<<clojure java scala
-<<Sample Input 2:
+** <<<clojure java scala
+* <<Sample Input 2:
 
-<<<the three the three the three an an a
-<<Sample Output 2:
+** <<<the three the three the three an an a
+* <<Sample Output 2:
 
-<<a an the three
+** <<a an the three
