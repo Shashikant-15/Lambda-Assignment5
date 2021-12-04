@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d131c48-4432-45f3-a06b-9568c8880350" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ Calculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Calculator/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Calculator/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Calculator/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Calculator/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Calculator/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Calculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Calculator/out/production/Calculator/com/calculator/Calculator$IntegerMath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Calculator/out/production/Calculator/com/calculator/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Calculator/src/com/calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/.bsp/sbt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/.idea/modules/DesignPatternAssignment-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/.idea/modules/DesignPatternAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/config-classes/$1a681633ca31f5bb8b16$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/config-classes/$1a681633ca31f5bb8b16.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/config-classes/$1a681633ca31f5bb8b16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/config-classes/$aa0a1bba246897afc056$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/config-classes/$aa0a1bba246897afc056.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/config-classes/$aa0a1bba246897afc056.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/config-classes/$aee12caecd287918e9ac.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/config-classes/$aee12caecd287918e9ac.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/config-classes/$c9bc1ce02f392a085023$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/config-classes/$c9bc1ce02f392a085023.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/config-classes/$c9bc1ce02f392a085023.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/_global/_global/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/compile/bspReporter/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/compile/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/compile/scalacOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/compile/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/project/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/src/main/scala/Dependency_Inversion/Architect.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/src/main/scala/Dependency_Inversion/DI_main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/src/main/scala/Dependency_Inversion/Developer.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/src/main/scala/Dependency_Inversion/Employee.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/src/main/scala/Dependency_Inversion/Manager.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/src/main/scala/LSP/AnnualMember.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/src/main/scala/LSP/EnquiryUser.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/src/main/scala/LSP/LSP_main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/src/main/scala/LSP/LifetimeMember.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/src/main/scala/LSP/Member.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/src/main/scala/SRP/TextManipulator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/src/main/scala/SRP/TextPrinter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/src/main/scala/SRP/main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/.history3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/scala-2.13/update/update_cache_2.13/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/_global/_global/dumpStructure/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/compile/scalacOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/compile/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/runtime/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/test/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/test/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternAssignment/target/streams/test/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/.bsp/sbt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/.idea/modules/FUNCTIONAL-PROGRAMMING-ASSIGNMENT-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/.idea/modules/FUNCTIONAL-PROGRAMMING-ASSIGNMENT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/config-classes/$2b652377c4256d88a62c$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/config-classes/$2b652377c4256d88a62c.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/config-classes/$2b652377c4256d88a62c.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/config-classes/$a51b403743ba7b23b392$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/config-classes/$a51b403743ba7b23b392.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/config-classes/$a51b403743ba7b23b392.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/config-classes/$b3466b2668127a957bc8$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/config-classes/$b3466b2668127a957bc8.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/config-classes/$b3466b2668127a957bc8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/config-classes/$e5014a3c5bc7875bc5fb$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/config-classes/$e5014a3c5bc7875bc5fb.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/config-classes/$e5014a3c5bc7875bc5fb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/_global/_global/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/bspReporter/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/scalacOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/project/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/src/main/scala/DIP/ApplySwitch.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/src/main/scala/DIP/Fan.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/src/main/scala/DIP/Switchable.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/src/main/scala/LSP/Account.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/src/main/scala/LSP/AccountCurrent.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/src/main/scala/LSP/AccountSaving.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/src/main/scala/LSP/Printer.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/src/main/scala/LSP/Test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/src/main/scala/SRP/StringModify.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/src/main/scala/SRP/StringPrint.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/.history3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/scala-2.12/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/_global/_global/dumpStructure/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/compile/scalacOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/compile/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/runtime/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/test/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/test/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/test/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetDistinctStringApps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/knoldus/distinctString/DistinctStringApplicationClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/knoldus/distinctString/DistinctStringTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/knoldus/distinctString/DistinctStringApplicationClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/knoldus/distinctString/DistinctStringTestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_Assignment/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_Assignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_Assignment/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_Assignment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_Assignment/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_Assignment/index.html/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_Assignment/index.html/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_Assignment/index.html/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_Assignment/index.html/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_Assignment/index.html/.idea/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_Assignment/index.html/.idea/index.html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_Assignment/index.html/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_Assignment/index.html/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_Assignment/index.html/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_Assignment/index.html/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML_Assignment/index.html/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL2021/src/main/java/com/Tigers/controller/ResultController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL2021/src/main/java/com/Tigers/dataAccess/ResultRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL2021/src/main/java/com/Tigers/model/ResultModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL2021/src/main/java/com/Tigers/services/ResultServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Management_System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/1125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/banner image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/bimage3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/chris card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/disneylogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/harbhajan card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/ipllogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/joseph card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/m1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/malinga card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/rabada card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/rashid card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/russel card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/shikhar card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/starlogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/videos1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/videos2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/videos3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/images/virat kohli cards.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/team-logo/csk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/team-logo/dc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/team-logo/kkr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/team-logo/kp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/team-logo/mi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/team-logo/rcb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/team-logo/rr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/assets/team-logo/srh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/match.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/matches.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/videos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IPL_Mgmt_System2021/src/main/resources/frontend/IPLT-20/videoss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCexample/JDBCexample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCexample/src/main/java/JDBExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/JavaAssgnment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/CopyConstructorMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/NoClassDefFoundError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/NoClassDefFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/binaryArraySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/countCharacterOccurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/custom_exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/duplicateWord_Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/duplicate_Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/firstChar_equalsTo_lastChar1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/firstChar_equalsTo_lastChar2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/first_Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/integer_To_Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/libraryClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/object_Cloning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/popFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/remove_Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/staticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/com/shashi/try_catch_finally_imply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAssgnment1/src/extra/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/Java_Adv_Ques_9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/src/com/shashi/ConsumerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/src/com/shashi/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/src/com/shashi/EmployeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/src/com/shashi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/src/com/skt/creditCardVallidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/src/com/skt/histogram_new.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/src/p/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/src/p1/TwoDim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Adv_Ques_9/src/p2/ThreeDim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/Java_advanceAssignment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_1/dish_design.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_10/Output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_10/code_correction1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_11/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_11/Output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_12/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_12/Employee.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_13/Multi_Thread_Implement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_14/User_Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_15/Modified_Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_15/test1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_2/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_4/LowerAndUpper_App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_5/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_5/lear.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_6/ MidtermScores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_6/Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_6/Second_Method_Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_7/JavaHungry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_7/Output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_8/handleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_9/p/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_9/p1/TwoDim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_advanceAssignment1/src/Adv_9/p2/ThreeDim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/Java_core_assignments1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_10/using_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_10/using_doWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_11/Coffee_shop_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_12/customerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_13/Library_mgmt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_14/NoClassDefFoundError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_15/singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_16/Object_Clonning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_16/copy_Constructor_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_17/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_18/part_1/InstanceMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_18/part_1/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_18/part_2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_18/part_2/EmployeeDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_18/part_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_18/part_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_18/part_3/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_19/integerToWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_2/Binary_Array_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_20/DuckSimulationGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_21/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_22/creditCardVallidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_3/remove_Specify_Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_6/Duplicate_words.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_7/occurrencesOfChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_8/Static_Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_8/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_core_assignments1/src/assign_9/bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/Lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/Assignment1/LambdaInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/Assignment1/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/Assignment2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/Assignment2/ThisInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/Assignment2JavaStreams/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/Assignment2JavaStreams/MyStreamLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/Assignment3/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/Assignment3/MyLambdaInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/Assignment4/MyClassImplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/Assignment4/MyLambdaInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/Assignment5/Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/Assignment5/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/ReadFileTransformationAssignment/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/src/ReadFileTransformationAssignment/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenProject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/NewMavenAAssign.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/NewMavenAAssign-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/classes/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/CalculatorTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/CalculatorTest/Command line test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/CalculatorTest/Command line test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/TEST-CalculatorTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/junitreports/TEST-CalculatorTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/old/CalculatorTest/Command line test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/old/CalculatorTest/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/old/CalculatorTest/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/old/CalculatorTest/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/old/CalculatorTest/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/old/CalculatorTest/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/old/CalculatorTest/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/old/CalculatorTest/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/old/CalculatorTest/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/old/CalculatorTest/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/old/CalculatorTest/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/testng-reports2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/surefire-reports/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMavenAAssign/target/test-classes/CalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oops1_Assignment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oops_Assign_2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/SOLID-PRINCIPLE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/src/DIP/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/src/DIP/DIP_main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/src/LSP/AnnualMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/src/LSP/EnquiryUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/src/LSP/LifetimeMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/src/LSP/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/src/LSP/main_LSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/src/SRP/TextManipulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/src/SRP/TextPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-PRINCIPLE/src/SRP/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/.idea/modules/SOLID-Principle_Assignment-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/.idea/modules/SOLID-Principle_Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/src/main/scala/DependencyInversion/DBConnectionInterface.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/src/main/scala/DependencyInversion/MySQLConnection.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/src/main/scala/SingleResponsibility/AreaCalculator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/src/main/scala/SingleResponsibility/Circle.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/src/main/scala/SingleResponsibility/Shape.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/src/main/scala/SingleResponsibility/Square.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOLID-Princciple_Assignment/src/main/scala/SingleResponsibility/SumCalculatorOutputter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Solid-Assignment/.idea/modules/Solid-Assignment-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Solid-Assignment/.idea/modules/Solid-Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.bsp/sbt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_12_1_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_12_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scalactic_scalactic_2_12_3_3_0_SNAP3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scalatest_scalatest_2_12_3_3_0_SNAP3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scalatest_scalatest_compatible_3_3_0_SNAP3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scalatest_scalatest_core_2_12_3_3_0_SNAP3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scalatest_scalatest_diagrams_2_12_3_3_0_SNAP3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scalatest_scalatest_featurespec_2_12_3_3_0_SNAP3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scalatest_scalatest_flatspec_2_12_3_3_0_SNAP3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scalatest_scalatest_freespec_2_12_3_3_0_SNAP3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scalatest_scalatest_funspec_2_12_3_3_0_SNAP3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scalatest_scalatest_funsuite_2_12_3_3_0_SNAP3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scalatest_scalatest_matchers_core_2_12_3_3_0_SNAP3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scalatest_scalatest_mustmatchers_2_12_3_3_0_SNAP3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scalatest_scalatest_propspec_2_12_3_3_0_SNAP3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scalatest_scalatest_refspec_2_12_3_3_0_SNAP3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scalatest_scalatest_shouldmatchers_2_12_3_3_0_SNAP3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/libraries/sbt__org_scalatest_scalatest_wordspec_2_12_3_3_0_SNAP3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/modules/Unit_Integration_Assignment-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/modules/Unit_Integration_Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/config-classes/$2e47dbb045589f8412f0$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/config-classes/$2e47dbb045589f8412f0.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/config-classes/$2e47dbb045589f8412f0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/config-classes/$58098907b49e63cdd73f$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/config-classes/$58098907b49e63cdd73f.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/config-classes/$58098907b49e63cdd73f.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/config-classes/$fe04a89f5f7d5e52e211$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/config-classes/$fe04a89f5f7d5e52e211.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/config-classes/$fe04a89f5f7d5e52e211.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/config-classes/$fe0f64d8d5344faa077a$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/config-classes/$fe0f64d8d5344faa077a.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/config-classes/$fe0f64d8d5344faa077a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/_global/_global/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/bspReporter/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/scalacOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/project/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/src/main/scala/CheckEmail/Email.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/src/main/scala/DivideFibonacci/Divide.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/src/main/scala/DivideFibonacci/Fibonacci.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/src/main/scala/DivideFibonacci/Fibonacci_Divide.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/src/test/scala/CheckEmail/CheckEmail.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/src/test/scala/DivideFibonacci/Fibonacci_Divide_Testing.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment/target/.history3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/.bsp/sbt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/.idea/modules/Unit_Integration_Assignment_part3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/config-classes/$03b4687136b0677f1789$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/config-classes/$03b4687136b0677f1789.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/config-classes/$03b4687136b0677f1789.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/config-classes/$21ffa7845d651ef9d889$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/config-classes/$21ffa7845d651ef9d889.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/config-classes/$21ffa7845d651ef9d889.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/config-classes/$6eac9bf15d6606f6cb34$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/config-classes/$6eac9bf15d6606f6cb34.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/config-classes/$6eac9bf15d6606f6cb34.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/config-classes/$efaa0b166770219819d0$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/config-classes/$efaa0b166770219819d0.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/config-classes/$efaa0b166770219819d0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/_global/_global/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/bspReporter/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/scalacOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/project/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/src/main/scala/companyModels/Company.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/src/main/scala/companyModels/Employee.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/src/main/scala/database/CompanyDB.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/src/main/scala/requestForCheck/CompanyOperation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/src/main/scala/requestForCheck/EmployeeOperation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/src/main/scala/validation/CompanyValidation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/src/main/scala/validation/EmailValidation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/src/main/scala/validation/EmployeeValidation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/src/test/scala/validationTest/CompanyValidationTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/src/test/scala/validationTest/EmailValidationTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/src/test/scala/validationTest/EmployeeValidationTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/.history3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/scala-2.13/update/update_cache_2.13/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/_global/_global/dumpStructure/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/_global/updateSbtClassifiers/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/compile/scalacOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/compile/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/runtime/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/test/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/test/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Assignment_part3/target/streams/test/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/.bsp/sbt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/.idea/modules/Unit_Integration_Test-Part_3-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/.idea/modules/Unit_Integration_Test-Part_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/DB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/DataBase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/config-classes/$13f6ba93669f141e21c2$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/config-classes/$13f6ba93669f141e21c2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/config-classes/$13f6ba93669f141e21c2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/config-classes/$1d7389432494211cdbfb$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/config-classes/$1d7389432494211cdbfb.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/config-classes/$1d7389432494211cdbfb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/config-classes/$209e3eb0cecd7769f555$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/config-classes/$209e3eb0cecd7769f555.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/config-classes/$209e3eb0cecd7769f555.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/config-classes/$34f8527b07e5632b416c$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/config-classes/$34f8527b07e5632b416c.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/config-classes/$34f8527b07e5632b416c.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/config-classes/$95dbe7267ab97c90cadd$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/config-classes/$95dbe7267ab97c90cadd.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/config-classes/$95dbe7267ab97c90cadd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/_global/_global/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/bspReporter/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/scalacOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/project/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/src/main/scala/com/knoldus/DataBase/CompanyReadDB.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/src/main/scala/com/knoldus/Model/CompanyModel.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/src/main/scala/com/knoldus/Model/Employee.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/src/main/scala/com/knoldus/Request/CompanyVerify.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/src/main/scala/com/knoldus/Request/EmployeeVerify.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/src/main/scala/com/knoldus/Validator/CompanyValidator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/src/main/scala/com/knoldus/Validator/EmailValidator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/src/main/scala/com/knoldus/Validator/EmployeeValidator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/src/test/scala/TestValidation/ComanyValidationTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/src/test/scala/TestValidation/EmailValidatorTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/src/test/scala/TestValidation/EmployeeValidationTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/.history3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/scala-2.12/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/_global/_global/dumpStructure/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/compile/scalacOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/compile/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/runtime/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/test/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/test/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit_Integration_Test-Part_3/target/streams/test/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clean-code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distinctString.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distinctString/src/main/java/com/knoldus/LambdaAssignment5/distinctString/Distinct_String_ImplementationClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/maintainEmplyee_list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/src/advance6/Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/src/advance6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/src/com/shashi/code_correction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/src/com/shashi/creditCardValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/src/com/shashi/creditCard_VallidationFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/src/com/shashi/dish_design.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/src/com/shashi/employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/src/com/shashi/first_last_Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/src/com/shashi/javaHungry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/src/com/shashi/lastModifiedTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/src/com/shashi/outer_Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maintainEmplyee_list/src/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/.idea/npm_assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/npm_assignment/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../npm_Assignment/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops_Assignment_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops_Assignment_1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops_Assignment_1/.idea/DoubleQueue.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops_Assignment_1/.idea/Queue.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops_Assignment_1/.idea/SquareQueue.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops_Assignment_1/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops_Assignment_1/.idea/codeStyles/Main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops_Assignment_1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops_Assignment_1/.idea/codeStyles/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops_Assignment_1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops_Assignment_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oops_Assignment_1/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phoneBook/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phoneBook/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phoneBook/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phoneBook/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phoneBook/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phoneBook/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phoneBook/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phoneBook/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phoneBook/phoneBook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phoneBook/src/com/shashikant/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phoneBook/src/com/shashikant/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phoneBook/src/com/shashikant/runnable_Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testingHistogram/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kafka_Assignment" beforeDir="false" afterPath="$PROJECT_DIR$/../Kafka_Assignment" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="21oTqeeV0bSEBOtaMy4z7muj71K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.DistinctStringApplicationClass">
+    <configuration name="DistinctStringApplicationClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.knoldus.distinctString.DistinctStringApplicationClass" />
+      <module name="GetDistinctStringApps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knoldus.distinctString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistinctStringTestClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GetDistinctStringApps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knoldus.distinctString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.knoldus.distinctString" />
+      <option name="MAIN_CLASS_NAME" value="com.knoldus.distinctString.DistinctStringTestClass" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistinctStringTestClass.mustReturnDistinctString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GetDistinctStringApps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.knoldus.distinctString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.knoldus.distinctString" />
+      <option name="MAIN_CLASS_NAME" value="com.knoldus.distinctString.DistinctStringTestClass" />
+      <option name="METHOD_NAME" value="mustReturnDistinctString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DistinctStringApplicationClass" />
+        <item itemvalue="JUnit.DistinctStringTestClass.mustReturnDistinctString" />
+        <item itemvalue="JUnit.DistinctStringTestClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d131c48-4432-45f3-a06b-9568c8880350" name="Changes" comment="" />
+      <created>1638606632270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638606632270</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GetDistinctStringApps$DistinctStringTestClass_mustReturnDistinctString.ic" NAME="DistinctStringTestClass.mustReturnDistinctString Coverage Results" MODIFIED="1638607804605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.knoldus.distinctString.*</FILTER>
+    </SUITE>
+  </component>
+</project>
