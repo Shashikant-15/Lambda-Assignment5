@@ -8,6 +8,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class DistinctStringApplicationClass {
+
     public static List<String> getDistinctStrings(List<String> stringList){
 
         // Here  lambda expression to implementing required tasks.
