@@ -234,25 +234,6 @@
       <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/test/unmanagedClasspath/_global/streams/export" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/test/unmanagedClasspath/_global/streams/out" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FUNCTIONAL-PROGRAMMING-ASSIGNMENT/target/streams/test/unmanagedJars/_global/streams/export" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GetDistinctStringApps.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knoldus/distinctString/DistinctStringApplicationClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/knoldus/distinctString/DistinctStringTestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/knoldus/distinctString/DistinctStringApplicationClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/knoldus/distinctString/DistinctStringTestClass.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HTML_Assignment/.idea/checkstyle-idea.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HTML_Assignment/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HTML_Assignment/.idea/runConfigurations.xml" afterDir="false" />
@@ -961,6 +942,8 @@
       <change afterPath="$PROJECT_DIR$/../phoneBook/src/com/shashikant/WordCount.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../phoneBook/src/com/shashikant/runnable_Thread.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../testingHistogram/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kafka_Assignment" beforeDir="false" afterPath="$PROJECT_DIR$/../Kafka_Assignment" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -979,7 +962,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
