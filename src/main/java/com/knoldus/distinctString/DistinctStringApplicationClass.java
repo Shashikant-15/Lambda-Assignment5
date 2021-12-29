@@ -7,6 +7,7 @@ import java.util.Scanner;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
+// A public DistinctStringApplicationClass is created
 public class DistinctStringApplicationClass {
 
     public static List<String> getDistinctStrings(List<String> stringList){
@@ -18,6 +19,7 @@ public class DistinctStringApplicationClass {
                 .collect(Collectors.toList()); // collecting as a list
         return distinctStrings.apply(stringList);
     }
+    // main method called here
     public static void main(String[] arguments) {
 
         List<String> list= new ArrayList<>();
@@ -27,7 +29,7 @@ public class DistinctStringApplicationClass {
 
         String[] stringList3= line1.split("\\s");
         Collections.addAll(list, stringList3);
-
+        // return output 
         System.out.println("Distinct Values are : " +DistinctStringApplicationClass.getDistinctStrings(list));
     }
 }
